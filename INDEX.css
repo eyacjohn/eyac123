@@ -1,0 +1,33 @@
+img {
+    width: 400px;
+	height; 300px;
+}
+
+
+
+body {
+	background-color: white;
+    background-position: center;
+    background-size: cover;
+	background-image: url('sun.jpg');
+	background-size: 100%;
+
+	
+}
+ul li {
+	 padding:10px;
+	 border:1px solid black;
+	 display:inline-block;
+	 
+}
+ul{
+	text-align: center;
+	list-style:none;
+}
+li{
+	font-size:200%
+	color: white;
+}
+
+
+<p styles="text-align:Left"> Home Contact About Us! </p>
